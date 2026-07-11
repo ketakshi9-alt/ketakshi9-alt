@@ -66,21 +66,77 @@
 ### ⚙️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyterNotebook" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Hidden Camera Detector
-AI-powered hidden camera detection system using Computer Vision and OpenCV.
+### 🕵️ Hidden Camera Detector
 
-### 🏦 Loan Approval Prediction
-Machine Learning model for predicting loan approval using Scikit-Learn.
+An AI-powered hidden camera detection system that uses Computer Vision and Deep Learning to identify suspicious cameras in real time. The application provides an intuitive web interface for scanning, detecting, and highlighting potential hidden cameras while maintaining detection history and user authentication.
+
+**Features**
+- 🎥 Real-time camera detection using YOLOv8
+- 🤖 AI-powered object detection with OpenCV
+- 📸 Live webcam scanning
+- 🔍 Hidden camera identification
+- 👤 User authentication (Login & Registration)
+- 📊 Detection history and logs
+- 📱 Responsive web interface
+- 🗃️ Database integration for storing users and detection records
+
+**Tech Stack:** Python • Flask • OpenCV • YOLOv8 (Ultralytics) • PyTorch • HTML5 • CSS3 • JavaScript • MySQL • Git • GitHub
+
+---
 
 ### 💰 Salary Prediction
-Regression-based salary prediction system with an interactive web interface.
+
+A Machine Learning application that predicts employee salaries based on various professional attributes. The model leverages regression algorithms to provide accurate salary estimates through an interactive web interface.
+
+**Features**
+- 💼 Predict employee salaries based on input features
+- 📊 Data preprocessing and feature engineering
+- 🤖 Machine Learning regression model
+- 📈 Model performance evaluation using R² Score, MAE, and RMSE
+- 🌐 Interactive Streamlit web application
+- ⚡ Real-time salary prediction
+- 📋 User-friendly interface with instant results
+
+**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib • Streamlit
+
+---
+
+### 🏠 House Price Prediction
+Developed a Machine Learning regression model to estimate house prices based on property features such as area, number of bedrooms, bathrooms, and location. The project includes data preprocessing, feature engineering, model training, and an interactive Streamlit web application for instant price prediction.
+
+**Features**
+- 📊 Data preprocessing and feature engineering
+- 🤖 Regression-based prediction model
+- 📈 Model evaluation using R² Score and MAE
+- 🏡 Interactive Streamlit interface
+- 💰 Real-time house price estimation
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit
+
+---
+
+### 🏦 Loan Approval Prediction
+
+A Machine Learning application that predicts whether a loan application will be approved based on applicant information. The project includes data preprocessing, model training, and an interactive web application for real-time predictions.
+
+**Features**
+- 🏦 Predict loan approval status instantly
+- 📊 Data preprocessing and feature engineering
+- 🤖 Decision Tree Classifier for prediction
+- 📈 High model accuracy with performance evaluation
+- 🌐 Interactive Streamlit web application
+- ⚡ Real-time prediction based on applicant details
+- 📋 Simple and user-friendly interface
+
+**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib • Streamlit
 
 ---
 
